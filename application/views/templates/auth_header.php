@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="shortcut icon" href="img/icons/icon-48x48.png" />
 
-    <title>Login | Muflih Shop</title>
+    <title>Login | MyPos One</title>
 
     <script script src="<?= base_url() ?>assets/js/jquery-3.4.1.min.js" crossorigin="anonymous"></script>
 
