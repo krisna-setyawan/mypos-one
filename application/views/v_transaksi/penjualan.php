@@ -137,10 +137,10 @@
                         </div>
                     </div>
                     <div class="row mt-5 mb-4 justify-content-center">
-                        <div class="col-md-3">
+                        <div class="col-md-3 mb-3">
                             <button type="button" class="btn btn-block btn-danger" data-dismiss="modal" onclick="batal_tambah()">Batal</button>
                         </div>
-                        <div class="col-md-3">
+                        <div class="col-md-3 mb-3">
                             <button type="submit" class="btn btn-block btn-success">Lanjutkan</button>
                         </div>
                     </div>
