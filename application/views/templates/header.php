@@ -10,7 +10,7 @@
     <meta name="keywords" content="adminkit, bootstrap, bootstrap 5, admin, dashboard, template, responsive, css, sass, html, theme, front-end, ui kit, web">
 
 
-    <title>Muflih Shop</title>
+    <title>MyPos One</title>
 
     <!-- JQUERY -->
     <script src="<?= base_url() ?>assets/js/jquery-3.4.1.min.js"></script>
